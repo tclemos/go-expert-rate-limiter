@@ -61,4 +61,6 @@ a plataforma da Full Cycle não oferece ferramentas para questionamento e inform
 imagem abaixo não deixam muito claro os passos que foram executados para reproduzir o possível 
 problema.
 
+![Notificação do problema](test_issue.png)
+
 Conforme evidências acima, todos os cenários solicitados funcionaram de acordo com o esperado.
