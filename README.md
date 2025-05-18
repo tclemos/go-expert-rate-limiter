@@ -55,3 +55,6 @@ Personalizei a mensagem de erro para mostrar qual item foi banido(IP ou API KEY)
 ```log
 The API KEY ABCD has reached the maximum number of requests or actions allowed within a certain time frame, wait until 2025-02-26T22:21:12Z
 ```
+### Testes
+
+Mais detalhes sobre os testes podem ser encontrados em [./tests/README.md](./tests/README.md)

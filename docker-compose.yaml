@@ -5,6 +5,8 @@ services:
       target: server
     ports:
       - "8080:8080"
+    depends_on:
+      - redis
 
   redis:
     image: redis:alpine
